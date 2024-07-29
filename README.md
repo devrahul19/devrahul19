@@ -1,4 +1,4 @@
-[![MasterHead](https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)]
+![MasterHead](https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrahul19" alt=devrahul19" /></a> </p>
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul dhiman" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rahul-dhiman-853403282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul dhiman" height="30" width="40" /></a>
 <a href="https://instagram.com/rahhuullss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahhuullss" height="30" width="40" /></a>
 </p>
 
